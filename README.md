@@ -1,5 +1,5 @@
 ## Pop!_OS 
-###Gnome 3.32 application & shell theme
+### Gnome 3.32 application & shell theme
 ---
 Full tutorial may be found here: http://txti.es/pop-os/images
 
